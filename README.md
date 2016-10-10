@@ -1,6 +1,6 @@
 # e-commerce site to sell books
 
-##Message to Shishir
+## Message to Shishir
 
 Hey Shishir,
 
@@ -28,6 +28,16 @@ Hope you are doing good. I recently did a certification on "MongoDB for Node.js 
     `localhost:3000`
 
 9. You can find a basic e-commerce site, which displays mongodb products.
+
+## Screenshots
+
+![alt text][books]
+
+[books]: https://github.com/AjithPanneerselvam/Expanion/tree/master/screenshots/book.png "books"
+
+![alt text][cart]
+
+[cart]: https://github.com/AjithPanneerselvam/Expanion/tree/master/screenshots/cart.png "cart"
 
 
 ## To-do
