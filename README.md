@@ -15,17 +15,17 @@ Hope you are doing good. I recently did a certification on "MongoDB for Node.js 
 5. Now fire up a new terminal/command prompt and navigate to the root of this repository.
 6. Enter the following command to import necessary documents:
 
-`mongoimport --drop -d mongomart -c item data/items.json`
+    `mongoimport --drop -d mongomart -c item data/items.json`
 
-`mongoimport --drop -d mongomart -c cart data/cart.json`
+    `mongoimport --drop -d mongomart -c cart data/cart.json`
 
 7. Finally enter the following command to run our app:
 
-`node mongomart.js`
+    `node mongomart.js`
 
 8. Now, we are ready to go. Open the browser of your choice and enter the following url:
 
-`localhost:3000`
+    `localhost:3000`
 
 9. You can find a basic e-commerce site, which displays mongodb products.
 
@@ -38,4 +38,4 @@ Hope you are doing good. I recently did a certification on "MongoDB for Node.js 
 
 ## Issues
 
-1. Feel free to raise any issues, if you have problem with setting up and running the app.
+Feel free to raise any issues, if you have problem with setting up and running the app.
