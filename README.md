@@ -31,9 +31,9 @@ Hope you are doing good. I recently did a certification on "MongoDB for Node.js 
 
 ## Screenshots
 
-![alt text] ( https://github.com/AjithPanneerselvam/Expanion/tree/master/screenshots/book.png "books")
+![alt text](https://github.com/AjithPanneerselvam/Expanion/blob/master/screenshots/book.png "books")
 
-![alt text] (https://github.com/AjithPanneerselvam/Expanion/tree/master/screenshots/cart.png "cart")
+![alt text](https://github.com/AjithPanneerselvam/Expanion/blob/master/screenshots/cart.png "cart")
 
 ## To-do
 1. Create a sign-up page
