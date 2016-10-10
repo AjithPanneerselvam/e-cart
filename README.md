@@ -1,4 +1,4 @@
-# e-commerce site to sell books
+.n# e-commerce site to sell books
 
 ##Message to Shishir
 
@@ -11,8 +11,8 @@ Hope you are doing good. I recently did a certification on "MongoDB for Node.js 
 1. Make sure you have installed Node.js and MongoDB installed on your local machine.
 2. Clone this repository.
 3. Run mongodb, by running this command `mongod` in your terminal/command prompt.
-4. Install the necessary dependencies, by running this command `npm install`
-5. Now fire up a new terminal/command prompt and navigate to the root of this repository.
+4. Now fire up a new terminal/command prompt and navigate to the root of our repository.
+5. Install the dependencies, by running this command `npm install`.
 6. Enter the following command to import necessary documents:
 
     `mongoimport --drop -d mongomart -c item data/items.json`
