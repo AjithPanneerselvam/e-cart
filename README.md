@@ -31,10 +31,15 @@ Hope you are doing good. I recently did a certification on "MongoDB for Node.js 
 
 ## Screenshots
 
+<<<<<<< HEAD
 ![alt text] ( https://github.com/AjithPanneerselvam/Expanion/tree/master/screenshots/book.png "books")
 
 ![alt text] (https://github.com/AjithPanneerselvam/Expanion/tree/master/screenshots/cart.png "cart")
+=======
+![alt text](https://github.com/AjithPanneerselvam/Expanion/blob/master/screenshots/book.png "books")
+>>>>>>> ff80932e6ed588e82b3c2af1fc6abe1cc19d74a2
 
+![alt text](https://github.com/AjithPanneerselvam/Expanion/blob/master/screenshots/cart.png "cart")
 
 ## To-do
 1. Create a sign-up page
