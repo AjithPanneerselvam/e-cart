@@ -31,13 +31,9 @@ Hope you are doing good. I recently did a certification on "MongoDB for Node.js 
 
 ## Screenshots
 
-![alt text][books]
+![alt text] ( https://github.com/AjithPanneerselvam/Expanion/tree/master/screenshots/book.png "books")
 
-[books]: https://github.com/AjithPanneerselvam/Expanion/tree/master/screenshots/book.png "books"
-
-![alt text][cart]
-
-[cart]: https://github.com/AjithPanneerselvam/Expanion/tree/master/screenshots/cart.png "cart"
+![alt text] (https://github.com/AjithPanneerselvam/Expanion/tree/master/screenshots/cart.png "cart")
 
 
 ## To-do
