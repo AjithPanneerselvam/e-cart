@@ -1,7 +1,7 @@
 var Product = require('../models/product');
 var mongoose = require('mongoose');
-mongoose.Promise = require('bluebird');
-
+//mongoose.Promise = require('bluebird');
+mongoose.Promise = global.Promise;// when i do this it works fine...
 var products =[
     new Product({
     //imagePath:'../public/images/inferno.png',
